@@ -1,7 +1,7 @@
 ### Core Files TODO
 
 - [x] qbx_core
-- [ ] qbx_medical
+- [x] qbx_medical
 - [ ] qbx_management
 - [ ] qbx_mechanicjob
 - [ ] qbx_policejob
