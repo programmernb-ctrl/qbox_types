@@ -7,7 +7,7 @@
 - [ ] qbx_policejob
 - [ ] qbx_scoreboard
 - [ ] qbx_seatbelt
-- [ ] qbx_smallresources
+- [x] qbx_smallresources (could use seperate folders?, got lazy)
 - [ ] qbx_vehiclekeys
 - [ ] qbx_vehicles
 - [ ] xt-prison
