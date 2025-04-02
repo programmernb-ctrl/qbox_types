@@ -15,3 +15,5 @@ Consolidated types for [Lua Language Server](https://github.com/LuaLS/lua-langua
     "F:/GitHub/qbox_types/types",
   ],
 ```
+## Credits
+I used the same readme as [ox_types](https://github.com/overextended/ox_types) but slightly edited as it does about the same thing just for Qbox Resources.
