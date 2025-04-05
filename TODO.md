@@ -8,7 +8,7 @@
 - [ ] qbx_scoreboard
 - [ ] qbx_seatbelt
 - [x] qbx_smallresources (could use seperate folders?, got lazy)
-- [ ] qbx_vehiclekeys
+- [x] qbx_vehiclekeys
 - [ ] qbx_vehicles
 - [ ] xt-prison
 - [ ] pma-voice (should we even use the types for this?)
