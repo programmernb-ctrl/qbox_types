@@ -176,6 +176,16 @@ function exports.qbx_core:GetGroups(source) end
 function exports.qbx_core:GetPlayersData() end
 
 ---**`server`**
+---@param identifier Source | CitizenId
+---@param key string
+---@param value any
+function exports.qbx_core:SetPlayerData(identifier, key, value) end
+
+---**`server`**
+---@param identifier Source | CitizenId
+function exports.qbx_core:UpdatePlayerData(identifier) end
+
+---**`server`**
 ---@param filters table <string, any>
 ---@return Player[]
 function exports.qbx_core:SearchPlayers(filters) end
