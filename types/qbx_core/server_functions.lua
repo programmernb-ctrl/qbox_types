@@ -142,8 +142,7 @@ function exports.qbx_core:IsPlayerBanned(source) end
 
 ---**`server`**
 ---@see client/lua:Notify
-function exports.qbx_core:Notify(source, text, notifyType, duration, subTitle, notifyPosition, notifyStyle, notifyIcon,
-                                 notifyIconColor) end
+function exports.qbx_core:Notify(source, text, notifyType, duration, subTitle, notifyPosition, notifyStyle, notifyIcon, notifyIconColor) end
 
 ---**`server`**
 ---@param InvokingResource string
